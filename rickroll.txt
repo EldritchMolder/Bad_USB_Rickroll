@@ -1,0 +1,7 @@
+GUI r
+DELAY 500
+STRING powershell.exe -WindowStyle hidden
+ENTER
+DELAY 500
+STRING start-process "C:\Program Files (x86)\Internet Explorer\iexplore.exe" https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
